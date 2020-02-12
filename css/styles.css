@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    background-image:url(../css-two\images\bg-pattern-desktop.svg:);
+    background-size: 100vh;
+    font-size: 16px;
+}
+.logo{
+    text-align: left;
+    padding: 30px;
+    width: 20%;
+    height: 20vh;
+}
+.pic{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    align-content: center;
+}
+.box2{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+.box2 h1{
+    color: rgb(192, 147, 155);
+    font-size: 30px;
+    text-align: center;
+}
+.box2 span{
+    color: black;
+    font-size: 30px;
+}
+.box2 p{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color: rgb(192, 147, 155);
+}
+.footer{
+    text-align: left;
+    padding: 10px;
+    height: 15px;
+    width: 250px;
+    border-radius: 50px;
+    border: 1px solid rgb(203,187,186);
+}
+.button{
+    border:30px; 
+    height:40px;
+    width:  60px; 
+    display:inline ;
+    background-color:rgb(243,180,192) ;
+    border:10px solid rgb(243,180,192) ;
+    color:rgb(248,243,245) ;
+    font-size:  20px ;
+}
